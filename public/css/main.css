@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 60px;
+    background-color: burlywood;
+}
+aside {
+    left: 0;
+    height: 100%;
+    width: 200px;
+    background-color: sandybrown;
+    position: absolute;
+}
+main {
+    background-color: lightsalmon;
+    height: 100vh;
+    margin-left: 200px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: salmon;
+    height: 60px;
+    width: 100%;
+}
+h1 {
+    color: pink;
+    font-size: 500px;
+    margin: 0;
+}
+ul {
+    margin: 0;
+}

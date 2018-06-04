@@ -16,7 +16,7 @@ class NavigationController extends Controller
             return abort('404');
         }
        } else {
-        return view('welcome');
+        return view('home');
        }
 
    } 
